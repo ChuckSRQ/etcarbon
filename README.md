@@ -34,7 +34,7 @@ done by hand. In the future this will be automated by a Github bot.
 Create three voting contracts "Yes", "No", "This proposal is not
 clear" using the contract code provided
 at [contracts/vote.sol](contracts/vote.sol). Please let a developer
-know if you have trouble deploying the contracts.
+know if you have trouble deploying the contract.
 
 After the voting period end, the actual voting rates can be collected
 from the blockchain. We will soon publish a tool to do this.
